@@ -9,12 +9,15 @@ This project implements a dynamic traffic control system using the YOLOv10 model
 Real-time vehicle detection using YOLOv10.
 Dynamic traffic signal adjustment based on detected vehicle types.
 Improved traffic management to reduce congestion and enhance emergency response.
+
 🛠 Prerequisites
 Python 3.x
 Libraries: opencv-python, numpy, ultralytics, cvzone
+
 📈 Usage
 Ensure you have set the correct video path in both Create Zones.py and main.py.
 Run the project to see the dynamic traffic control system in action.
+
 🐞 Troubleshooting
 Model Loading / Missing Dependency Errors:
 Ensure all required libraries are installed.
